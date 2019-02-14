@@ -1,0 +1,4 @@
+mylist = [18, 5]
+name = [mylist, 2, 3.14]
+say = {"name":"lol", 2:3, "pi":3.14}
+print (name[2],(say["name"]))
